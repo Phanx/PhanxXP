@@ -1,0 +1,15 @@
+## Interface: 50400
+
+## Title: PhanxXP
+## Notes: A very simple XP and reputation bar.
+## Notes-deDE: Ein sehr einfache Erfahrungs- und Rufbalken. 
+## Notes-esES: Una barra de XP y reputación muy simple.
+## Notes-esMX: Una barra de XP y reputación muy simple.
+
+## Author: Phanx
+## X-Email: addons@phanx.net
+## X-Credits: Based on jExp, by Mertex.
+## X-Copyright: Copyright (c) 2009-2014 Phanx. All rights reserved.
+## X-License: See the accompanying LICENSE file for permissions and restrictions.
+
+Addon.lua
