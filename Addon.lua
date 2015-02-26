@@ -1,7 +1,7 @@
 --[[--------------------------------------------------------------------
 	PhanxXP
 	A very simple XP and reputation bar.
-	Copyright (c) 2009-2014 Phanx <addons@phanx.net>. All rights reserved.
+	Copyright (c) 2009-2015 Phanx <addons@phanx.net>. All rights reserved.
 	https://github.com/Phanx/PhanxXP
 ----------------------------------------------------------------------]]
 
