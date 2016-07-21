@@ -1,12 +1,12 @@
 --[[--------------------------------------------------------------------
 	PhanxXP
 	A very simple XP and reputation bar.
-	Copyright (c) 2009-2015 Phanx <addons@phanx.net>. All rights reserved.
+	Copyright (c) 2009-2016 Phanx <addons@phanx.net>. All rights reserved.
 	https://github.com/Phanx/PhanxXP
 ----------------------------------------------------------------------]]
 
 local BAR_TEXTURE = select(6, GetAddOnInfo("PhanxMedia")) ~= "MISSING"
-	and [[Interface\AddOns\PhanxMedia\statusbar\HalA]]
+	and [[Interface\AddOns\PhanxMedia\statusbar\statusbar4]]
 	or [[Interface\TargetingFrame\UI-StatusBar]]
 
 local XP_COLOR   = { r = 0.4, g = 0,   b = 0.8 } -- 0.2, 0, 0.5

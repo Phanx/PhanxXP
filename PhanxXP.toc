@@ -1,4 +1,4 @@
-## Interface: 60100
+## Interface: 70000
 
 ## Title: PhanxXP
 ## Notes: A very simple XP and reputation bar.
@@ -8,7 +8,7 @@
 
 ## Author: Phanx
 ## X-Email: addons@phanx.net
-## X-Copyright: Copyright (c) 2009-2015 Phanx. All rights reserved.
+## X-Copyright: Copyright (c) 2009-2016 Phanx. All rights reserved.
 ## X-Credits: Inspired by jExp, by Mertex.
 ## X-Website: https://github.com/Phanx/PhanxXP
 
