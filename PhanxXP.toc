@@ -1,4 +1,4 @@
-## Interface: 70000
+## Interface: 70100
 
 ## Title: PhanxXP
 ## Notes: A very simple XP and reputation bar.
